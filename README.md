@@ -1,1 +1,1 @@
-# dl-icr-sandbox
+# Deep learning training at the Institute of Cancer Research
